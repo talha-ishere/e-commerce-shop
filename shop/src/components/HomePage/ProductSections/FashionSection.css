@@ -1,0 +1,123 @@
+/* fashion section start */
+
+.cart_btn {
+  border: none;
+  border-color: #f26522 !important;
+  background-color: #f26522 !important;
+  padding: 10px 22px;
+  color: white;
+  border-radius: 5px;
+}
+.details_btn {
+  border-color: #f26522 !important;
+  border: none;
+  background-color: #f26522 !important;
+  padding: 10px 22px;
+  color: white;
+  border-radius: 5px;
+}
+.fashion_section {
+  background-color: #e3e6e6;
+  width: 100%;
+  float: left;
+  padding-bottom: 150px;
+}
+
+.fashion_taital {
+  width: 100%;
+  font-size: 40px;
+  color: #30302e;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.fashion_section_2 {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.box_main_fashion {
+  width: 80%;
+  background-color: #ffffff;
+  height: 530px;
+  padding: 20px;
+  box-shadow: 0px 0 30px 10px #f0f0f0;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+.fashion_text {
+  width: 100%;
+  font-size: 20px;
+  color: #30302e;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.fashion_price_text {
+  width: 100%;
+  font-size: 16px;
+  color: #f26522;
+  text-align: center;
+  margin: 0px;
+}
+
+.fashion_img {
+  width: 100%;
+  text-align: center;
+  margin: 50px 0px;
+  min-height: 270px;
+}
+
+.btn_main {
+  width: 100%;
+  display: flex;
+}
+
+.buy_bt {
+  float: left;
+  width: 100%;
+}
+
+.buy_bt a:hover {
+  background-color: transparent;
+  color: #262626;
+}
+
+.seemore_bt {
+  width: 100%;
+  float: right;
+  text-align: right;
+}
+
+#main_slider a.carousel-control-next {
+  right: 615px;
+  top: 105%;
+}
+
+#main_slider a.carousel-control-prev {
+  left: 615px;
+  top: 105%;
+}
+
+#main_slider .carousel-control-next,
+#main_slider .carousel-control-prev {
+  width: 55px;
+  height: 55px;
+  background-color: #30302e;
+  opacity: 1;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+#main_slider .carousel-control-next:focus,
+#main_slider .carousel-control-next:hover,
+#main_slider .carousel-control-prev:focus,
+#main_slider .carousel-control-prev:hover {
+  color: #fff;
+  background-color: #f26522;
+}
+
+/* fashion section end */

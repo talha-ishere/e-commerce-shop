@@ -1,0 +1,18 @@
+/* logo section start */
+
+.logo_section {
+  width: 100%;
+  float: left;
+}
+
+.logo {
+  width: 100%;
+  float: left;
+  text-align: center;
+  padding: 30px 0px;
+}
+.logo img:hover {
+  cursor: pointer;
+}
+
+/* logo section end */

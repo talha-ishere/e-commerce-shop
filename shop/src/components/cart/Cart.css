@@ -1,0 +1,61 @@
+.cart_box_main {
+  width: 80%;
+  background-color: #ffffff;
+  height: auto;
+  padding: 10px;
+  /* box-shadow: 0px 0 30px 10px #f0f0f0; */
+  margin-bottom: 20px;
+}
+/* .total {
+  border-radius: 5px;
+  border: none;
+  height: 70px;
+  width: 240px;
+  color: white;
+  margin: 5px;
+  margin-left: 1300px;
+
+  padding: 5px 20px;
+
+  background-color: #30302e;
+} */
+.cart_tshirt_img {
+  width: 100%;
+  text-align: center;
+  margin: 5px 0px;
+}
+.cart_heading {
+  width: 100%;
+  font-size: 40px;
+  color: #30302e;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.cart_delete_button {
+  border: none;
+  border-color: #f26522 !important;
+  background-color: #f26522 !important;
+  padding: 10px 90px;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+  display: flex;
+}
+
+.cart_shirt_text {
+  width: 100%;
+  font-size: 20px;
+  color: #30302e;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.cart_price_text {
+  width: 100%;
+  font-size: 16px;
+  color: #f26522;
+  text-align: center;
+  margin: 0px;
+}
